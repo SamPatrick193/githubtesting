@@ -1,1 +1,2 @@
 Sam Patrick Created text1.txt file
+<p>New Paragraph</p>
